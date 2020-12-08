@@ -6,9 +6,6 @@ commit from outer net
 dudududu
 add more strings
 
-new ceonten
-_______________________________
 
-some text in feature branch
 
 just another text
